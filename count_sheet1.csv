@@ -1,0 +1,397 @@
+claim_n,time,cause,type,body_part,nature,severity
+OS-17-501942,During,Unsafe Lane Change,Collision with another Vehicle,Neck,Sprain,Medical Only
+OS-00-0506883,During,Unsafe Lane Change,Collision with another Vehicle,Multiple Body Parts,Strain,Medical Only
+OS-13-504253,During,Unsafe Lane Change,Collision with another Vehicle,None,No Injury,Report Only
+OS-15-500767,During,Unsafe Lane Change,Excess Body Stress from Jerking,Back,Strain,Report Only
+OS-08-0500357,During,Unsafe Lane Change,Bodily Motion,Back,Strain,Medical Only
+OS-16-504196,During,Unsafe Lane Change,Collision with another Vehicle,Neck,Strain,Temporary Disability
+OS-19-500101,During,Fault of other Driver,Collision with another Vehicle,None,No Injury,Report Only
+OS-01-0500845,During,Other,Bodily Motion,Multiple Body Parts,Strain,Permanent Disability
+OS-02-0500909,During,Other,Other,Neck,Strain,Medical Only
+OS-03-0500760,During,Unknown,Other,Hand,Sprain,Permanent Disability
+OS-10-0505928,During,Unknown,Other,Back,Strain,Temporary Disability
+OS-10-0505814,During,Fault of other Driver,Collision with another Vehicle,Multiple Body Parts,Strain,Permanent Disability
+OS-15-505317,During,Fault of other Driver,Collision with another Vehicle,Multiple Body Parts,Multiple Natures,Temporary Disability
+OS-16-500455,During,Fault of other Driver,Collision with another Vehicle,Multiple Body Parts,Strain,Permanent Disability
+OS-15-505175,During,Fault of other Driver,Collision with another Vehicle,Multiple Body Parts,Strain,Temporary Disability
+OS-17-505801,During,Unknown,Collision with a Fixed Object,Hand,Strain,Medical Only
+OS-14-504642,During,Uneven Surface / Object on the Floor,Fall on the Same Level,Arm and Shoulder,Contusion,Temporary Disability
+OS-18-501253,During,Speeding,Collision with a Fixed Object,Leg,Strain,Medical Only
+OS-01-0500145,During,Speeding,Collision with a Fixed Object,Multiple Body Parts,Multiple Natures,Medical Only
+OS-02-0500131,During,Speeding,Collision with a Fixed Object,Multiple Body Parts,Strain,Permanent Disability
+OS-02-0500185,During,Speeding,Collision with a Fixed Object,Chest,Contusion,Medical Only
+OS-15-502062,During,Speeding,Collision with a Fixed Object,Multiple Body Parts,Contusion,Report Only
+OS-12-505188,During,Speeding,Collision with a Fixed Object,Back,Strain,Medical Only
+OS-14-500602,During,Speeding,Collision with a Fixed Object,Multiple Body Parts,Strain,Medical Only
+OS-12-501976,During,Speeding,Collision with a Fixed Object,Arm and Shoulder,Strain,Medical Only
+OS-05-0506334,During,Speeding,Collision with a Fixed Object,Neck,Strain,Medical Only
+OS-18-500113,During,Speeding,Bodily Motion,Neck,Strain,Medical Only
+OS-12-503018,During,Failure to Maintain Control over the vehicle,Fall on the Same Level,Arm and Shoulder,Sprain,Temporary Disability
+OS-18-501264,During,Failure to Maintain Control over the vehicle,Bodily Motion,Multiple Body Parts,Multiple Natures,Medical Only
+OS-13-504274,After,Physically Exiting the Vehicle,Bodily Motion,Knee,Sprain,Report Only
+OS-18-504564,Before,PhysicallyEntering the Vehicle,Bodily Motion,Hand,Strain,Medical Only
+OS-18-504792,Before,PhysicallyEntering the Vehicle,Other,Hand,Contusion,Medical Only
+OS-02-0500157,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Back,Strain,Medical Only
+OS-16-504782,After,Physically Exiting the Vehicle,Bodily Motion,Knee,Sprain,Medical Only
+OS-10-0505482,After,Physically Exiting the Vehicle,Fall on the Same Level,Leg,Sprain,Medical Only
+OS-17-501608,During,Abrupt Acceleration,Collision with a Fixed Object,Back,Strain,Medical Only
+OS-17-501755,During,Failure to Maintain Control over the vehicle,Collision with another Vehicle,None,No injury,Report Only
+OS-02-0500915,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Back,Strain,Medical Only
+OS-17-504879,During,Abrupt Acceleration,Collision with a Fixed Object,Back,Strain,Medical Only
+OS-17-506338,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,None,No injury,Report Only
+OS-02-0500210,During,Unsafe Lane Change,Bodily Motion,Multiple Body Parts,Strain,Medical Only
+OS-09-0505410,During,Other,Struck By and against,Hand,Laceration,Medical Only
+OS-16-506466,During,Fault of other Driver,Collision with another Vehicle,Neck,Strain,Medical Only
+OS-00-0506962,During,Fault of other Driver,Collision with another Vehicle,Back,Strain,Medical Only
+OS-01-0500138,During,Fault of other Driver,Collision with another Vehicle,Neck,Pain (General),Medical Only
+OS-02-0500708,During,Fault of other Driver,Collision with another Vehicle,Back,Strain,Permanent Disability
+OS-02-0500867,During,Fault of other Driver,Collision with another Vehicle,Back,Strain,Medical Only
+OS-02-0500949,During,Fault of other Driver,Collision with another Vehicle,Arm and Shoulder,Strain,Permanent Disability
+OS-10-0505932,During,Fault of other Driver,Collision with another Vehicle,Multiple Body Parts,Strain,Medical Only
+OS-05-0506034,During,Fault of other Driver,Collision with another Vehicle,Multiple Body Parts,Multiple Natures,Medical Only
+OS-07-0500740,During,Fault of other Driver,Collision with another Vehicle,Multiple Body Parts,Strain,Medical Only
+OS-10-0505696,During,Fault of other Driver,Collision with another Vehicle,Multiple Body Parts,Multiple Natures,Permanent Disability
+OS-06-0500339,During,Fault of other Driver,Collision with another Vehicle,Multiple Body Parts,Multiple Natures,Medical Only
+OS-15-501717,During,Fault of other Driver,Collision with another Vehicle,Multiple Body Parts,Contusion,Temporary Disability
+OS-09-0505306,During,Fault of other Driver,Collision with another Vehicle,None,No injury,Medical Only
+OS-14-500770,During,Fault of other Driver,Collision with another Vehicle,Multiple Body Parts,Multiple Natures,Medical Only
+OS-05-0506523,During,Fault of other Driver,Collision with another Vehicle,Multiple Body Parts,Strain,Medical Only
+OS-10-0505540,During,Fault of other Driver,Collision with another Vehicle,Multiple Body Parts,Strain,Medical Only
+OS-04-0500368,During,Fault of other Driver,Collision with another Vehicle,Multiple Body Parts,Strain,Temporary Disability
+OS-06-0500201,During,Fault of other Driver,Collision with another Vehicle,Multiple Body Parts,Strain,Medical Only
+OS-09-0505420,During,Fault of other Driver,Collision with another Vehicle,Back,Sprain,Medical Only
+OS-13-504444,During,Fault of other Driver,Collision with another Vehicle,Head,Pain (General),Medical Only
+OS-06-0500631,During,Fault of other Driver,Collision with another Vehicle,Multiple Body Parts,Strain,Medical Only
+OS-04-0500272,During,Fault of other Driver,Collision with another Vehicle,Knee,Sprain,Medical Only
+OS-12-504899,During,Fault of other Driver,Collision with another Vehicle,Multiple Body Parts,Strain,Medical Only
+OS-18-500082,During,Fault of other Driver,Collision with another Vehicle,Back,Strain,Temporary Disability
+OS-18-503229,During,Fault of other Driver,Collision with another Vehicle,Back,Contusion,Medical Only
+OS-18-503327,During,Fault of other Driver,Collision with another Vehicle,Back,Strain,Temporary Disability
+OS-18-503887,During,Fault of other Driver,Collision with another Vehicle,Back,Sprain,Medical Only
+OS-19-500534,During,Fault of other Driver,Collision with another Vehicle,Neck,Sprain,Medical Only
+OS-01-0500428,During,Failure to Yield Right of way,Collision with another Vehicle,Head,Concussion,Medical Only
+OS-01-0500689,During,Fault of other Driver,Collision with another Vehicle,Multiple Body Parts,Strain,Medical Only
+OS-02-0500986,During,Failure to Yield Right of way,Collision with another Vehicle,Head,Pain (General),Permanent Disability
+OS-13-500123,During,Failure to Yield Right of way,Collision with another Vehicle,Multiple Body Parts,Multiple Natures,Permanent Disability
+OS-16-502984,During,Failure to Yield Right of way,Collision with another Vehicle,Neck,Strain,Medical Only
+OS-12-500831,During,Failure to Yield Right of way,Collision with another Vehicle,Back,Strain,Medical Only
+OS-07-0500646,During,Failure to Yield Right of way,Collision with another Vehicle,Chest,Fracture,Medical Only
+OS-05-0506031,During,Failure to Yield Right of way,Collision with another Vehicle,Neck,Strain,Medical Only
+OS-07-0500542,During,Failure to Maintain Control over the vehicle,Collision with another Vehicle,Back,Strain,Permanent Disability
+OS-11-0505653,During,Failure to Yield Right of way,Collision with another Vehicle,Chest,Contusion,Medical Only
+OS-16-500695,During,Failure to Yield Right of way,Collision with another Vehicle,Back,Strain,Medical Only
+OS-08-0500515,During,Failure to Yield Right of way,Collision with another Vehicle,Back,Strain,Report Only
+OS-09-0505268,During,Failure to Yield Right of way,Collision with another Vehicle,Multiple Body Parts,Strain,Permanent Disability
+OS-12-502995,During,Failure to Yield Right of way,Collision with another Vehicle,Multiple Body Parts,Multiple Natures,Medical Only
+OS-16-505702,During,Failure to Yield Right of way,Collision with another Vehicle,Back,Strain,Medical Only
+OS-13-505142,During,Failure to Yield Right of way,Collision with another Vehicle,Arm and Shoulder,Strain,Medical Only
+OS-18-506286,During,Failure to Yield Right of way,Collision with another Vehicle,Multiple Body Parts,Fracture,Temporary Disability
+OS-18-506541,During,Failure to Yield Right of way,Collision with another Vehicle,Leg,Contusion,Medical Only
+OS-19-500673,During,Failure to Yield Right of way,Collision with another Vehicle,Head,Concussion,Medical Only
+OS-00-0506885,During,Failure to Stop at Stop Sign / Red Light,Excess Body Stress from Jerking,Multiple Body Parts,Strain,Medical Only
+OS-02-0500525,During,Failure to Stop at Stop Sign / Red Light,Excess Body Stress from Jerking,Back,Strain,Medical Only
+OS-03-0500663,During,Failure to Stop at Stop Sign / Red Light,Collision with another Vehicle,Back,Strain,Medical Only
+OS-05-0506496,During,Failure to Stop at Stop Sign / Red Light,Collision with another Vehicle,Neck,Strain,Medical Only
+OS-13-500701,During,Failure to Stop at Stop Sign / Red Light,Collision with another Vehicle,Head,Pain (General),Medical Only
+OS-07-0500734,During,Failure to Stop at Stop Sign / Red Light,Collision with another Vehicle,Arm and Shoulder,Strain,Medical Only
+OS-05-0506041,During,Failure to Stop at Stop Sign / Red Light,Collision with another Vehicle,Back,Strain,Permanent Disability
+OS-16-506190,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Back,Strain,Medical Only
+OS-17-500477,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Neck,Multiple Natures,Permanent Disability
+OS-00-0506760,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Back,Strain,Medical Only
+OS-01-0500623,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Hand,Sprain,Medical Only
+OS-01-0500909,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Multiple Body Parts,Strain,Medical Only
+OS-02-0500182,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Abdomen and Hip,Strain,Medical Only
+OS-02-0500342,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Arm and Shoulder,Contusion,Medical Only
+OS-03-0500788,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Neck,Strain,Medical Only
+OS-03-0500904,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Neck,Strain,Permanent Disability
+OS-15-501600,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Multiple Body Parts,Fracture,Medical Only
+OS-09-0505588,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Arm and Shoulder,Strain,Temporary Disability
+OS-09-0505769,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Multiple Body Parts,Multiple Natures,Permanent Disability
+OS-08-0500255,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Neck,Strain,Medical Only
+OS-12-504904,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Multiple Body Parts,Strain,Permanent Disability
+OS-13-505166,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Back,Strain,Temporary Disability
+OS-14-506012,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Multiple Body Parts,Strain,Medical Only
+OS-16-500842,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Multiple Body Parts,Strain,Permanent Disability
+OS-08-0500458,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Back,Strain,Medical Only
+OS-10-0505826,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Multiple Body Parts,Strain,Temporary Disability
+OS-15-506898,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Multiple Body Parts,Contusion,Medical Only
+OS-17-501092,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Chest,Contusion,Medical Only
+OS-07-0500334,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Neck,Strain,Medical Only
+OS-08-0500374,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Knee,Contusion,Medical Only
+OS-08-0500410,During,Failure to Maintain Control over the vehicle,Collision with another Vehicle,Back,Strain,Medical Only
+OS-10-0505520,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Back,Strain,Permanent Disability
+OS-11-0505334,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Back,Strain,Medical Only
+OS-11-0505501,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Hand,Fracture,Medical Only
+OS-12-502009,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Back,Strain,Medical Only
+OS-13-505007,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Knee,Contusion,Temporary Disability
+OS-07-0500634,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Multiple Body Parts,Strain,Medical Only
+OS-09-0505568,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Arm and Shoulder,Contusion,Medical Only
+OS-09-0505775,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Head,Pain (General),Medical Only
+OS-09-0505220,During,Abrupt Acceleration,Collision with a Fixed Object,Back,Strain,Medical Only
+OS-13-503325,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Multiple Body Parts,Strain,Permanent Disability
+OS-14-500013,During,Failure to Maintain Control over the vehicle,Bodily Motion,Multiple Body Parts,Strain,Medical Only
+OS-07-0500787,During,Failure to Maintain Control over the vehicle,Other,Multiple Body Parts,Strain,Medical Only
+OS-04-0500483,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Multiple Body Parts,Strain,Medical Only
+OS-04-0500742,During,Failure to Maintain Control over the vehicle,Collision with another Vehicle,Multiple Body Parts,Strain,Medical Only
+OS-06-0500411,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Back,Strain,Medical Only
+OS-07-0500330,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Back,Sprain,Medical Only
+OS-07-0500492,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Multiple Body Parts,Multiple Natures,Medical Only
+OS-09-0505525,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Neck,Sprain,Medical Only
+OS-15-500740,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Neck,Strain,Report Only
+OS-04-0500371,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Back,Strain,Temporary Disability
+OS-09-0505697,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Multiple Body Parts,Strain,Medical Only
+OS-10-0505547,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Back,Strain,Medical Only
+OS-11-0505361,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Back,Strain,Temporary Disability
+OS-12-500575,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Knee,Sprain,Medical Only
+OS-12-502301,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Multiple Body Parts,Strain,Medical Only
+OS-14-503823,During,Failure to Maintain Control over the vehicle,Collision with another Vehicle,Chest,Contusion,Permanent Disability
+OS-12-503667,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Leg,Contusion,Report Only
+OS-14-501406,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Back,Strain,Permanent Disability
+OS-15-502835,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Back,Strain,Medical Only
+OS-11-0505806,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Back,Strain,Permanent Disability
+OS-14-506377,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Multiple Body Parts,Multiple Natures,Medical Only
+OS-16-502241,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Multiple Body Parts,Contusion,Report Only
+OS-10-0505692,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Multiple Body Parts,Strain,Medical Only
+OS-10-0505742,During,Failure to Maintain Control over the vehicle,Collision with another Vehicle,Arm and Shoulder,Strain,Medical Only
+OS-12-504753,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Neck,Strain,Medical Only
+OS-17-506464,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Back,Strain,Medical Only
+OS-18-502125,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,None,No injury,Report Only
+OS-18-506769,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Back,Strain,Medical Only
+OS-19-501330,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Back,Strain,Medical Only
+OS-01-0500504,During,Exiting Parking space/Backing Vehicle,Collision with a Fixed Object,Multiple Body Parts,Contusion,Medical Only
+OS-01-0501025,During,Exiting Parking space/Backing Vehicle,Collision with another Vehicle,Back,Strain,Medical Only
+OS-02-0500450,During,Exiting Parking space/Backing Vehicle,Collision with a Fixed Object,Neck,Strain,Permanent Disability
+OS-03-0500602,During,Exiting Parking space/Backing Vehicle,Collision with a Fixed Object,Back,Strain,Medical Only
+OS-07-0500131,During,Exiting Parking space/Backing Vehicle,Collision with a Fixed Object,Back,Strain,Medical Only
+OS-14-502625,During,Exiting Parking space/Backing Vehicle,Collision with a Fixed Object,Back,Strain,Temporary Disability
+OS-15-500874,During,Exiting Parking space/Backing Vehicle,Collision with a Fixed Object,Multiple Body Parts,Strain,Medical Only
+OS-15-506153,During,Exiting Parking space/Backing Vehicle,Collision with another Vehicle,None,No injury,Report Only
+OS-05-0506127,During,Exiting Parking space/Backing Vehicle,Collision with a Fixed Object,Multiple Body Parts,Sprain,Medical Only
+OS-13-504742,During,Exiting Parking space/Backing Vehicle,Collision with a Fixed Object,Multiple Body Parts,Multiple Natures,Temporary Disability
+OS-04-0500223,During,Exiting Parking space/Backing Vehicle,Collision with a Fixed Object,Back,Strain,Medical Only
+OS-04-0500791,During,Exiting Parking space/Backing Vehicle,Collision with a Fixed Object,Back,Strain,Medical Only
+OS-07-0500506,During,Fault of other Driver,Collision with another Vehicle,Neck,Strain,Medical Only
+OS-08-0500456,During,Exiting Parking space/Backing Vehicle,Collision with a Fixed Object,Arm and Shoulder,Strain,Medical Only
+OS-16-501805,During,Exiting Parking space/Backing Vehicle,Collision with a Fixed Object,Multiple Body Parts,Strain,Medical Only
+OS-12-0501363,During,Exiting Parking space/Backing Vehicle,Collision with another Vehicle,Multiple Body Parts,Multiple Natures,Medical Only
+OS-13-502164,During,Exiting Parking space/Backing Vehicle,Collision with a Fixed Object,Multiple Body Parts,Multiple Natures,Medical Only
+OS-15-506133,During,Exiting Parking space/Backing Vehicle,Collision with a Fixed Object,None,No injury,Report Only
+OS-15-500490,During,Exiting Parking space/Backing Vehicle,Collision with another Vehicle,Arm and Shoulder,Contusion,Report Only
+OS-17-502052,During,Exiting Parking space/Backing Vehicle,Collision with another Vehicle,None,No injury,Report Only
+OS-17-505444,During,Exiting Parking space/Backing Vehicle,Collision with a Fixed Object,Back,Strain,Report Only
+OS-18-506179,During,Fault of other Driver,Collision with another Vehicle,Back,Pain (General),Medical Only
+OS-19-500079,During,Exiting Parking space/Backing Vehicle,Other,Multiple Body Parts,Strain,Medical Only
+OS-19-501123,During,Exiting Parking space/Backing Vehicle,Collision with a Fixed Object,Back,Strain,Permanent Disability
+OS-13-501524,During,Abrupt Postural Change,Bodily Motion,Hand,Sprain,Medical Only
+OS-17-505475,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Chest,Contusion,Medical Only
+OS-02-0500965,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Back,Strain,Medical Only
+OS-03-0500287,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Neck,Strain,Permanent Disability
+OS-12-505090,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Multiple Body Parts,Strain,Medical Only
+OS-11-0505849,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Multiple Body Parts,Strain,Medical Only
+OS-16-501090,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Back,Strain,Medical Only
+OS-15-501606,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Back,Strain,Medical Only
+OS-11-0505296,During,Failure to Maintain Control over the vehicle,Other,Neck,Sprain,Medical Only
+OS-15-506084,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,None,No injury,Report Only
+OS-18-500599,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Neck,Strain,Permanent Disability
+OS-16-506026,During,Abrupt Postural Change,Collision with a Fixed Object,Back,Strain,Medical Only
+OS-17-500583,During,Abrupt Braking,Excess Body Stress from Jerking,Arm and Shoulder,Strain,Medical Only
+OS-01-0500200,During,Abrupt Braking,Excess Body Stress from Jerking,Neck,Pain (General),Medical Only
+OS-01-0500236,During,Abrupt Braking,Excess Body Stress from Jerking,Multiple Body Parts,Pain (General),Medical Only
+OS-08-0500144,During,Abrupt Braking,Excess Body Stress from Jerking,Neck,Strain,Medical Only
+OS-13-506601,During,Abrupt Braking,Excess Body Stress from Jerking,Back,Strain,Temporary Disability
+OS-16-503991,During,Abrupt Braking,Excess Body Stress from Jerking,Back,Strain,Medical Only
+OS-05-0505970,During,Abrupt Braking,Bodily Motion,Back,Strain,Medical Only
+OS-12-504436,During,Abrupt Braking,Excess Body Stress from Jerking,Multiple Body Parts,Sprain,Medical Only
+OS-17-502390,During,Abrupt Braking,Excess Body Stress from Jerking,Neck,Strain,Medical Only
+OS-16-500460,During,Abrupt Braking,Excess Body Stress from Jerking,Neck,Strain,Medical Only
+OS-11-0505741,During,Abrupt Braking,Excess Body Stress from Jerking,Back,Strain,Medical Only
+OS-15-506231,During,Abrupt Braking,Excess Body Stress from Jerking,Multiple Body Parts,Multiple Natures,Report Only
+OS-06-0500535,During,Abrupt Braking,Excess Body Stress from Jerking,Arm and Shoulder,Strain,Medical Only
+OS-15-505261,During,Abrupt Braking,Excess Body Stress from Jerking,Neck,Sprain,Medical Only
+OS-11-0505620,During,Abrupt Braking,Excess Body Stress from Jerking,Multiple Body Parts,Multiple Natures,Medical Only
+OS-12-503140,During,Abrupt Braking,Excess Body Stress from Jerking,Multiple Body Parts,Strain,Medical Only
+OS-10-0505405,During,Abrupt Braking,Excess Body Stress from Jerking,Neck,Strain,Permanent Disability
+OS-18-500300,During,Abrupt Braking,Excess Body Stress from Jerking,Multiple Body Parts,Strain,Medical Only
+OS-17-506527,During,Abrupt Acceleration,Collision with a Fixed Object,Head,Pain (General),Medical Only
+OS-01-0500177,During,Abrupt Acceleration,Collision with a Fixed Object,Multiple Body Parts,Strain,Medical Only
+OS-01-0500305,During,Abrupt Acceleration,Collision with a Fixed Object,Multiple Body Parts,Multiple Natures,Medical Only
+OS-02-0500234,During,Abrupt Acceleration,Bodily Motion,Back,Strain,Medical Only
+OS-02-0500386,During,Abrupt Acceleration,Collision with a Fixed Object,Arm and Shoulder,Strain,Medical Only
+OS-02-0500648,During,Abrupt Acceleration,Collision with a Fixed Object,Back,Strain,Medical Only
+OS-03-0500127,During,Abrupt Acceleration,Collision with a Fixed Object,Arm and Shoulder,Contusion,Medical Only
+OS-03-0500735,During,Abrupt Braking,Bodily Motion,Back,Strain,Medical Only
+OS-14-506746,During,Abrupt Acceleration,Collision with a Fixed Object,Back,Strain,Medical Only
+OS-13-505192,During,Abrupt Acceleration,Collision with a Fixed Object,Multiple Body Parts,Strain,Medical Only
+OS-16-504586,During,Abrupt Acceleration,Collision with a Fixed Object,Arm and Shoulder,Strain,Medical Only
+OS-05-0505993,During,Abrupt Acceleration,Collision with a Fixed Object,Multiple Body Parts,Strain,Medical Only
+OS-07-0500152,During,Abrupt Acceleration,Collision with a Fixed Object,None,No injury,Medical Only
+OS-09-0505357,During,Abrupt Acceleration,Collision with a Fixed Object,Neck,Strain,Medical Only
+OS-11-0505371,During,Abrupt Acceleration,Collision with a Fixed Object,Neck,Strain,Medical Only
+OS-09-0505708,During,Abrupt Acceleration,Collision with a Fixed Object,Multiple Body Parts,Pain (General),Medical Only
+OS-08-0500407,During,Abrupt Acceleration,Collision with a Fixed Object,Back,Strain,Permanent Disability
+OS-13-503114,During,Abrupt Acceleration,Collision with a Fixed Object,Multiple Body Parts,Strain,Medical Only
+OS-15-500012,During,Abrupt Acceleration,Collision with another Vehicle,Multiple Body Parts,Strain,Medical Only
+OS-08-0500593,During,Abrupt Acceleration,Collision with a Fixed Object,Back,Strain,Medical Only
+OS-14-500796,During,Abrupt Acceleration,Collision with a Fixed Object,Multiple Body Parts,Strain,Medical Only
+OS-05-0506736,During,Abrupt Acceleration,Collision with a Fixed Object,Neck,Strain,Medical Only
+OS-08-0500624,During,Abrupt Acceleration,Other,Back,Strain,Medical Only
+OS-09-0505186,During,Abrupt Acceleration,Collision with a Fixed Object,Back,Strain,Medical Only
+OS-14-501292,During,Abrupt Acceleration,Collision with a Fixed Object,Neck,Sprain,Medical Only
+OS-04-0500171,During,Abrupt Acceleration,Bodily Motion,Multiple Body Parts,Strain,Medical Only
+OS-12-502192,During,Abrupt Acceleration,Collision with a Fixed Object,None,No injury,Report Only
+OS-18-500602,During,Abrupt Acceleration,Collision with a Fixed Object,None,No injury,Report Only
+OS-18-504851,During,Abrupt Acceleration,Collision with a Fixed Object,Neck,Sprain,Medical Only
+OS-19-501204,During,Abrupt Acceleration,Collision with a Fixed Object,Neck,Multiple Natures,Medical Only
+OS-01-0500216,During,Manual Handling / Lifting,Struck By and against,Hand,Laceration,Medical Only
+OS-13-500395,During,Abrupt Braking,Collision with another Vehicle,Multiple Body Parts,Strain,Medical Only
+OS-10-0505780,During,Unsafe Lane Change,Collision with another Vehicle,Arm and Shoulder,Strain,Medical Only
+OS-13-504184,During,Abrupt Postural Change,Bodily Motion,Multiple Body Parts,Strain,Report Only
+OS-12-503656,During,Abrupt Postural Change,Bodily Motion,Hand,Sprain,Medical Only
+OS-02-0500580,Before,Uneven Surface / Object on the Floor,Fall on the Same Level,Back,Strain,Medical Only
+OS-00-0506585,Before,Abrupt Postural Change,Bodily Motion,Back,Strain,Medical Only
+OS-06-0500251,Before,Manual Handling / Lifting,Bodily Motion,Multiple Body Parts,Strain,Permanent Disability
+OS-10-0505904,Before,Other,Struck By and against,Arm and Shoulder,Contusion,Medical Only
+OS-15-503511,Before,Manual Handling / Lifting,Bodily Motion,Arm and Shoulder,Strain,Medical Only
+OS-05-0506478,Before,Fault of other Driver,Struck By and against,Multiple Body Parts,Strain,Medical Only
+OS-11-0505342,After,Physically Exiting the Vehicle,Exposure to harmful substances or environments,Arm and Shoulder,Burn,Permanent Disability
+OS-14-504509,Before,Fault of other Driver,Struck By and against,Leg,Contusion,Medical Only
+OS-15-502464,Before,Manual Handling / Lifting,Other,Hand,Laceration,Medical Only
+OS-12-500606,Before,Uneven Surface / Object on the Floor,Fall on the Same Level,Back,Strain,Medical Only
+OS-00-0506669,Before,Uneven Surface / Object on the Floor,Bodily Motion,Leg,Sprain,Medical Only
+OS-01-0500553,Before,Uneven Surface / Object on the Floor,Fall on the Same Level,Back,Strain,Medical Only
+OS-02-0500614,Before,Uneven Surface / Object on the Floor,Fall on the Same Level,Leg,Strain,Medical Only
+OS-02-0500864,Before,Uneven Surface / Object on the Floor,Fall to Lower Level,Multiple Body Parts,Contusion,Medical Only
+OS-02-0500987,Before,Uneven Surface / Object on the Floor,Fall on the Same Level,Multiple Body Parts,Contusion,Report Only
+OS-03-0500804,Before,Uneven Surface / Object on the Floor,Fall on the Same Level,Leg,Strain,Medical Only
+OS-10-0505793,Before,Uneven Surface / Object on the Floor,Fall on the Same Level,Multiple Body Parts,Contusion,Medical Only
+OS-04-0500988,Before,Uneven Surface / Object on the Floor,Fall on the Same Level,Arm and Shoulder,Strain,Medical Only
+OS-07-0500635,Before,Uneven Surface / Object on the Floor,Fall on the Same Level,Leg,Sprain,Medical Only
+OS-07-0500679,Before,Uneven Surface / Object on the Floor,Fall on the Same Level,Knee,Laceration,Medical Only
+OS-09-0505273,Before,Uneven Surface / Object on the Floor,Fall on the Same Level,Leg,Sprain,Permanent Disability
+OS-13-506513,Before,Uneven Surface / Object on the Floor,Fall on the Same Level,Multiple Body Parts,Multiple Natures,Report Only
+OS-18-502150,Before,Uneven Surface / Object on the Floor,Fall on the Same Level,Leg,Sprain,Medical Only
+OS-12-501639,Before,Uneven Surface / Object on the Floor,Fall on the Same Level,Leg,Sprain,Medical Only
+OS-08-0500766,Before,Uneven Surface / Object on the Floor,Fall on the Same Level,Leg,Sprain,Permanent Disability
+OS-12-502229,Before,Uneven Surface / Object on the Floor,Fall on the Same Level,Multiple Body Parts,Contusion,Report Only
+OS-12-505252,Before,Uneven Surface / Object on the Floor,Fall on the Same Level,Multiple Body Parts,Contusion,Report Only
+OS-06-0500445,Before,Uneven Surface / Object on the Floor,Fall on the Same Level,Leg,Sprain,Medical Only
+OS-08-0500503,Before,Uneven Surface / Object on the Floor,Fall on the Same Level,Multiple Body Parts,Contusion,Medical Only
+OS-13-502318,Before,Uneven Surface / Object on the Floor,Bodily Motion,Abdomen and Hip,Strain,Report Only
+OS-11-0505830,Before,Uneven Surface / Object on the Floor,Fall on the Same Level,Knee,Sprain,Medical Only
+OS-13-502085,Before,Uneven Surface / Object on the Floor,Fall on the Same Level,Multiple Body Parts,Contusion,Medical Only
+OS-09-0505539,Before,Uneven Surface / Object on the Floor,Fall on the Same Level,Leg,Sprain,Medical Only
+OS-00-0506852,Before,PhysicallyEntering the Vehicle,Bodily Motion,Leg,Sprain,Medical Only
+OS-01-0500459,Before,PhysicallyEntering the Vehicle,Fall to Lower Level,Arm and Shoulder,Strain,Medical Only
+OS-01-0500667,Before,PhysicallyEntering the Vehicle,Bodily Motion,Back,Strain,Medical Only
+OS-02-0500366,Before,PhysicallyEntering the Vehicle,Bodily Motion,Abdomen and Hip,Strain,Medical Only
+OS-03-0500816,Before,PhysicallyEntering the Vehicle,Struck By and against,Hand,Contusion,Medical Only
+OS-16-503094,Before,PhysicallyEntering the Vehicle,Struck By and against,Back,Contusion,Medical Only
+OS-10-0505631,Before,PhysicallyEntering the Vehicle,Bodily Motion,Back,Strain,Medical Only
+OS-14-502193,Before,PhysicallyEntering the Vehicle,Bodily Motion,Back,Strain,Report Only
+OS-12-502644,Before,PhysicallyEntering the Vehicle,Bodily Motion,Leg,Strain,Medical Only
+OS-07-0500730,Before,PhysicallyEntering the Vehicle,Bodily Motion,Leg,Strain,Medical Only
+OS-13-501326,After,Physically Exiting the Vehicle,Bodily Motion,Multiple Body Parts,Inflammation,Medical Only
+OS-01-0500725,Before,Manual Handling / Lifting,Bodily Motion,Multiple Body Parts,Strain,Permanent Disability
+OS-13-502111,Before,Manual Handling / Lifting,Bodily Motion,Arm and Shoulder,Strain,Report Only
+OS-10-0505555,Before,Manual Handling / Lifting,Bodily Motion,Back,Strain,Medical Only
+OS-16-501170,Before,Manual Handling / Lifting,Bodily Motion,Abdomen and Hip,Pain (General),Medical Only
+OS-16-507086,Before,Manual Handling / Lifting,Struck By and against,Leg,Contusion,Medical Only
+OS-11-0505365,After,Animal / Insects,Exposure to harmful substances or environments,Hand,Inflammation,Medical Only
+OS-10-0505391,Before,Animal / Insects,Exposure to harmful substances or environments,Leg,Inflammation,Medical Only
+OS-12-501650,Before,Animal / Insects,Exposure to harmful substances or environments,Arm and Shoulder,Inflammation,Medical Only
+OS-01-0500328,Before,Abrupt Postural Change,Bodily Motion,Back,Strain,Medical Only
+OS-17-504231,Before,PhysicallyEntering the Vehicle,Bodily Motion,Arm and Shoulder,Strain,Medical Only
+OS-03-0500229,Before,PhysicallyEntering the Vehicle,Bodily Motion,Back,Strain,Medical Only
+OS-03-0500305,Before,PhysicallyEntering the Vehicle,Bodily Motion,Hand,Strain,Permanent Disability
+OS-16-506808,During,Weather Conditions,Exposure to harmful substances or environments,Multiple Body Parts,Heatstroke,Medical Only
+OS-17-500816,Before,Manual Handling / Lifting,Bodily Motion,Back,Strain,Medical Only
+OS-02-0500199,Before,PhysicallyEntering the Vehicle,Bodily Motion,Back,Strain,Medical Only
+OS-03-0500110,Before,PhysicallyEntering the Vehicle,Bodily Motion,Arm and Shoulder,Strain,Medical Only
+OS-03-0500339,After,Physically Exiting the Vehicle,Fall to Lower Level,Multiple Body Parts,Contusion,Permanent Disability
+OS-12-500855,After,Abrupt Postural Change,Bodily Motion,Abdomen and Hip,Strain,Permanent Disability
+OS-13-504450,After,Uneven Surface / Object on the Floor,Fall on the Same Level,Multiple Body Parts,Contusion,Report Only
+OS-02-0500198,After,Uneven Surface / Object on the Floor,Fall on the Same Level,Leg,Sprain,Medical Only
+OS-02-0500347,After,Uneven Surface / Object on the Floor,Fall on the Same Level,Knee,Sprain,Medical Only
+OS-03-0500503,After,Uneven Surface / Object on the Floor,Fall on the Same Level,Arm and Shoulder,Sprain,Medical Only
+OS-11-0505544,After,Uneven Surface / Object on the Floor,Fall on the Same Level,Leg,Sprain,Medical Only
+OS-08-0500430,After,Uneven Surface / Object on the Floor,Fall on the Same Level,Leg,Sprain,Medical Only
+OS-12-503877,After,Uneven Surface / Object on the Floor,Fall on the Same Level,Hand,Strain,Medical Only
+OS-04-0500338,After,Uneven Surface / Object on the Floor,Bodily Motion,Arm and Shoulder,Strain,Medical Only
+OS-10-0506003,After,Uneven Surface / Object on the Floor,Fall on the Same Level,Multiple Body Parts,Sprain,Medical Only
+OS-08-0500288,After,Uneven Surface / Object on the Floor,Fall on the Same Level,Multiple Body Parts,Contusion,Report Only
+OS-13-503742,After,Uneven Surface / Object on the Floor,Fall on the Same Level,Knee,Contusion,Medical Only
+OS-01-0500643,After,Weather Conditions,Struck By and against,Multiple Body Parts,Contusion,Medical Only
+OS-01-0500745,After,Weather Conditions,Struck By and against,Multiple Body Parts,Strain,Medical Only
+OS-02-0500656,After,Physically Exiting the Vehicle,Bodily Motion,Knee,Sprain,Medical Only
+OS-03-0500644,Before,PhysicallyEntering the Vehicle,Bodily Motion,Arm and Shoulder,Strain,Temporary Disability
+OS-12-505488,After,Physically Exiting the Vehicle,Fall to Lower Level,Multiple Body Parts,Multiple Natures,Medical Only
+OS-10-0505816,After,Physically Exiting the Vehicle,Bodily Motion,Leg,Sprain,Temporary Disability
+OS-11-0505774,After,Physically Exiting the Vehicle,Fall to Lower Level,Hand,Sprain,Medical Only
+OS-06-0500701,Before,PhysicallyEntering the Vehicle,Struck By and against,Multiple Body Parts,Strain,Medical Only
+OS-00-0506680,After,Physically Exiting the Vehicle,Bodily Motion,Back,Strain,Medical Only
+OS-01-0500120,After,Physically Exiting the Vehicle,Fall to Lower Level,Hand,Contusion,Medical Only
+OS-01-0500242,After,Physically Exiting the Vehicle,Bodily Motion,Multiple Body Parts,Multiple Natures,Permanent Disability
+OS-02-0500376,After,Physically Exiting the Vehicle,Bodily Motion,Back,Strain,Permanent Disability
+OS-02-0500713,After,Physically Exiting the Vehicle,Fall to Lower Level,Back,Strain,Medical Only
+OS-16-506453,After,Physically Exiting the Vehicle,Fall to Lower Level,Knee,Sprain,Permanent Disability
+OS-07-0500437,After,Physically Exiting the Vehicle,Fall to Lower Level,Knee,Contusion,Permanent Disability
+OS-09-0505221,After,Physically Exiting the Vehicle,Fall to Lower Level,Leg,Strain,Medical Only
+OS-14-506029,After,Physically Exiting the Vehicle,Fall to Lower Level,Leg,Laceration,Report Only
+OS-08-0500641,After,Physically Exiting the Vehicle,Fall to Lower Level,Knee,Sprain,Medical Only
+OS-10-0505999,After,Physically Exiting the Vehicle,Fall to Lower Level,Knee,Sprain,Medical Only
+OS-15-505204,After,Physically Exiting the Vehicle,Struck By and against,Hand,Laceration,Report Only
+OS-09-0505365,After,Physically Exiting the Vehicle,Fall to Lower Level,Knee,Sprain,Medical Only
+OS-09-0505463,After,Physically Exiting the Vehicle,Fall to Lower Level,Back,Strain,Medical Only
+OS-10-0505604,After,Physically Exiting the Vehicle,Bodily Motion,Back,Strain,Permanent Disability
+OS-04-0500671,After,Physically Exiting the Vehicle,Fall to Lower Level,Leg,Strain,Medical Only
+OS-04-0500680,After,Physically Exiting the Vehicle,Fall to Lower Level,Arm and Shoulder,Sprain,Medical Only
+OS-05-0506472,After,Physically Exiting the Vehicle,Fall to Lower Level,Leg,Sprain,Permanent Disability
+OS-07-0500693,After,Physically Exiting the Vehicle,Bodily Motion,Arm and Shoulder,Strain,Medical Only
+OS-14-503622,After,Physically Exiting the Vehicle,Bodily Motion,Leg,Strain,Temporary Disability
+OS-15-502153,After,Physically Exiting the Vehicle,Fall to Lower Level,Leg,Strain,Medical Only
+OS-15-506788,After,Physically Exiting the Vehicle,Bodily Motion,Leg,Sprain,Medical Only
+OS-10-0505563,After,Physically Exiting the Vehicle,Bodily Motion,Back,Strain,Medical Only
+OS-13-506362,After,Physically Exiting the Vehicle,Bodily Motion,Knee,Strain,Medical Only
+OS-16-502577,After,Physically Exiting the Vehicle,Fall to Lower Level,Back,Contusion,Temporary Disability
+OS-05-0506458,After,Physically Exiting the Vehicle,Bodily Motion,Knee,Sprain,Medical Only
+OS-15-502278,After,Physically Exiting the Vehicle,Bodily Motion,Leg,Sprain,Report Only
+OS-04-0500106,After,Physically Exiting the Vehicle,Bodily Motion,Knee,Strain,Medical Only
+OS-06-0500189,After,Animal / Insects,Exposure to harmful substances or environments,Back,Inflammation,Medical Only
+OS-02-0500941,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Back,Strain,Medical Only
+OS-02-0501046,During,Failure to Maintain Control over the vehicle,Collision with a Fixed Object,Back,Sprain,Medical Only
+OS-00-0506950,During,Abrupt Braking,Excess Body Stress from Jerking,Multiple Body Parts,Multiple Natures,Medical Only
+OS-02-0500623,After,Animal / Insects,Exposure to harmful substances or environments,Head,Pain (General),Medical Only
+OS-03-0500762,Before,Uneven Surface / Object on the Floor,Fall on the Same Level,Knee,Contusion,Medical Only
+OS-00-0506634,Before,Uneven Surface / Object on the Floor,Fall on the Same Level,Hand,Contusion,Medical Only
+OS-16-503402,After,Physically Exiting the Vehicle,Fall to Lower Level,Leg,Sprain,Permanent Disability
+OS-00-0506826,Before,PhysicallyEntering the Vehicle,Fall to Lower Level,Knee,Sprain,Permanent Disability
+OS-03-0500374,After,Physically Exiting the Vehicle,Bodily Motion,Abdomen and Hip,Strain,Medical Only
+OS-05-0506004,Before,PhysicallyEntering the Vehicle,Bodily Motion,Leg,Sprain,Medical Only
+OS-14-500340,After,Physically Exiting the Vehicle,Fall to Lower Level,Multiple Body Parts,Multiple Natures,Temporary Disability
+OS-09-0505591,Before,Uneven Surface / Object on the Floor,Fall on the Same Level,Leg,Sprain,Permanent Disability
+OS-15-500291,Before,Uneven Surface / Object on the Floor,Fall on the Same Level,Leg,Contusion,Permanent Disability
+OS-07-0500397,After,Physically Exiting the Vehicle,Bodily Motion,Knee,Sprain,Permanent Disability
+OS-08-0500275,During,Uneven Surface / Object on the Floor,Bodily Motion,Leg,Sprain,Medical Only
+OS-05-0506201,After,Physically Exiting the Vehicle,Struck By and against,Hand,Multiple Natures,Permanent Disability
+OS-13-504394,Before,Weather Conditions,Fall on the Same Level,Multiple Body Parts,Contusion,Report Only
+OS-13-503419,Before,Weather Conditions,Fall on the Same Level,Multiple Body Parts,Contusion,Report Only
+OS-07-0500570,After,Physically Exiting the Vehicle,Fall to Lower Level,Arm and Shoulder,Contusion,Medical Only
+OS-09-0505266,Before,PhysicallyEntering the Vehicle,Fall on the Same Level,Knee,Sprain,Permanent Disability
+OS-06-0500636,After,Physically Exiting the Vehicle,Bodily Motion,Back,Strain,Medical Only
+OS-15-504265,After,Physically Exiting the Vehicle,Fall to Lower Level,Multiple Body Parts,Multiple Natures,Report Only
+OS-16-505663,After,Physically Exiting the Vehicle,Fall on the Same Level,Back,Strain,Medical Only
+OS-07-0500723,Before,PhysicallyEntering the Vehicle,Struck By and against,Head,Laceration,Medical Only
+OS-04-0500614,Before,Weather Conditions,Fall on the Same Level,Hand,Sprain,Medical Only
+OS-04-0500440,Before,Abrupt Postural Change,Bodily Motion,Back,Strain,Permanent Disability
+OS-05-0505969,Before,Abrupt Postural Change,Bodily Motion,Back,Strain,Permanent Disability
+OS-14-506115,Before,Uneven Surface / Object on the Floor,Fall on the Same Level,Leg,Sprain,Medical Only
+OS-03-0500768,Before,Uneven Surface / Object on the Floor,Bodily Motion,Leg,Sprain,Medical Only
+OS-11-0505863,After,Physically Exiting the Vehicle,Fall on the Same Level,Multiple Body Parts,Multiple Natures,Medical Only
+OS-13-503281,After,Uneven Surface / Object on the Floor,Fall on the Same Level,Multiple Body Parts,Multiple Natures,Report Only
+OS-16-500823,Before,Uneven Surface / Object on the Floor,Fall on the Same Level,Multiple Body Parts,Multiple Natures,Medical Only
+OS-18-500450,Before,Uneven Surface / Object on the Floor,Fall on the Same Level,Leg,Sprain,Medical Only
+OS-18-503225,Before,PhysicallyEntering the Vehicle,Struck By and against,Head,Pain (General),Report Only
+OS-18-503372,After,Weather Conditions,Fall on the Same Level,Multiple Body Parts,Fracture,Permanent Disability
+OS-19-500617,Before,PhysicallyEntering the Vehicle,Bodily Motion,Knee,Sprain,Medical Only
+OS-15-504060,During,Abrupt Braking,Bodily Motion,Arm and Shoulder,Sprain,Medical Only
+OS-09-0505326,During,Abrupt Braking,Bodily Motion,Neck,Strain,Permanent Disability
